@@ -1,1 +1,2 @@
-print('Hello,this is Python world!')
+name = input('Enter your name:')
+print('Hello %s, this is Python world!' % name)
